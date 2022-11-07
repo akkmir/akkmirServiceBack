@@ -1,1 +1,1 @@
-## :battery: :battery: :battery: Akkmir2022. Клиентская часть проекта, сервисы
+## :battery: :battery: :battery: Akkmir2022. Серверная часть проекта, сервисы
